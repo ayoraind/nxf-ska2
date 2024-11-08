@@ -4,7 +4,7 @@
 ```
 
 ===============================================
- TAPIR SKA Pipeline version 1.0dev
+ TAPIR SKA2 Pipeline version 1.0dev
 ===============================================
 
  Mandatory arguments:
